@@ -1,0 +1,11 @@
+﻿{
+  "Id": "$safeprojectname$",
+  "DisplayName": "$safeprojectname$",
+  "Author": "Gorzontrok",
+  "Version": "1.0.0",
+  // "Requirements": [ "RocketLib" ],
+  // "LoadAfter": [ "RocketLib" ],
+  "AssemblyName": "$safeprojectname$.dll",
+  "EntryMethod": "$safeprojectname$.Main.Load",
+  "Repository": "https://raw.githubusercontent.com/Gorzon38/Mods-Broforce/main/Repository.json"
+}
