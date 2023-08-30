@@ -22,6 +22,7 @@
       <ProjectItem ReplaceParameters="true" TargetFileName="Main.cs">Main.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="Mod.cs">Mod.cs</ProjectItem>
       <ProjectItem ReplaceParameters="true" TargetFileName="ModUI.cs">ModUI.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="ResourcesController.cs">ResourcesController.cs</ProjectItem>
       <Folder Name="Properties" TargetFolderName="Properties">
         <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
       </Folder>
